@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:1d4ed8,100:14b8a6&text=Muhammad%20Umer%20Soomro&fontColor=ffffff&fontSize=44&fontAlignY=37&animation=fadeIn&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Flutter%20Developer&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:1d4ed8,100:14b8a6&text=Muhammad%20Umer%20Soomro&fontColor=ffffff&fontSize=44&fontAlignY=37&animation=fadeIn&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Flutter%20Developer&descAlignY=58&descSize=16" width="100%" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+AI+products+that+solve+real-world+problems;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Open+to+AI%2FML+Engineer+and+Data+Science+roles" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=06B6D4&center=true&vCenter=true&width=1000&lines=Building+AI+products+that+solve+real-world+problems;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Open+to+AI%2FML+Engineer+and+Data+Science+roles" alt="typing" />
 </div>
 
 <br />
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-umer-2ab769245/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Umer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:umermuhammad7052@gmail.com">
     <img src="https://img.shields.io/badge/Email-umermuhammad7052%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -20,7 +23,7 @@
 
 ---
 
-## About Me
+## ✦ About Me
 
 I am a **BS Software Engineering graduate (SSUET, Karachi)** with hands-on experience in **AI/ML, data analytics, and Flutter development**. I focus on building practical solutions that convert raw data into real product outcomes.
 
@@ -31,9 +34,9 @@ I am a **BS Software Engineering graduate (SSUET, Karachi)** with hands-on exper
 
 ---
 
-## Tech Stack
+## ✦ Tech Stack
 
-### AI / ML / Data Science
+### ✦ AI / ML / Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -42,14 +45,14 @@ I am a **BS Software Engineering graduate (SSUET, Karachi)** with hands-on exper
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-### Mobile / Backend
+### ✦ Mobile / Backend
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-### Tools
+### ✦ Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
@@ -58,7 +61,15 @@ I am a **BS Software Engineering graduate (SSUET, Karachi)** with hands-on exper
 
 ---
 
-## Experience
+## ✦ Animated Skill Bars
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=1000&lines=Python+++++++++++++%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%5D+90%25;Machine+Learning++++%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%5D+80%25;Deep+Learning+++++++%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%5D+80%25;Flutter++++++++++++%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%5D+80%25;Data+Analytics+++++%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%5D+70%25" alt="animated-skill-bars" />
+</div>
+
+---
+
+## ✦ Experience
 
 ### Data Analyst & Developer - United Bank Limited (UBL)
 **2024 (3 months)**
@@ -72,7 +83,7 @@ I am a **BS Software Engineering graduate (SSUET, Karachi)** with hands-on exper
 
 ---
 
-## Featured Projects
+## ✦ Featured Projects
 
 ### Solar Sage (Final Year Project)
 AI-powered solar advisory chatbot built with **Flutter**, **Firebase**, and **n8n** automation.  
@@ -88,9 +99,21 @@ Mobile app to log and categorize day-to-day expenses with a clean, user-friendly
 ### Library Management System (Java + SQL)
 Library system with book inventory, member handling, and borrowing/return records.
 
+<div align="center">
+  <a href="https://github.com/search?q=user%3AMuhammad-Umer2002+solar&type=repositories">
+    <img src="https://img.shields.io/badge/Explore-Solar%20Sage-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Solar Sage" />
+  </a>
+  <a href="https://github.com/search?q=user%3AMuhammad-Umer2002+monitoring&type=repositories">
+    <img src="https://img.shields.io/badge/Explore-Class%20Monitoring-1d4ed8?style=for-the-badge&logo=github&logoColor=white" alt="Explore Class Monitoring" />
+  </a>
+  <a href="https://github.com/search?q=user%3AMuhammad-Umer2002+expense&type=repositories">
+    <img src="https://img.shields.io/badge/Explore-Expense%20Tracker-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Explore Expense Tracker" />
+  </a>
+</div>
+
 ---
 
-## GitHub Analytics
+## ✦ GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Umer2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
@@ -107,7 +130,33 @@ Library system with book inventory, member handling, and borrowing/return record
 
 ---
 
-## Certifications
+## ✦ Hire Me
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20To%20Work-AI%2FML%20Engineer-16a34a?style=for-the-badge" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Role-Data%20Scientist-2563eb?style=for-the-badge" alt="Role Data Scientist" />
+  <img src="https://img.shields.io/badge/Role-Flutter%20Developer-0d9488?style=for-the-badge" alt="Role Flutter Developer" />
+</div>
+
+- Looking for: Full-time AI/ML Engineer or Data Scientist opportunities
+- Strengths: ML model development, data-driven problem solving, product-focused AI implementation
+- Preferred location: Karachi (Open to remote/hybrid opportunities)
+- Contact:
+  - Email: `umermuhammad7052@gmail.com`
+  - LinkedIn: `https://www.linkedin.com/in/muhammad-umer-2ab769245/`
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-umer-2ab769245/">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:umermuhammad7052@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
+  </a>
+</div>
+
+---
+
+## ✦ Certifications
 
 | Year | Certification | Issuing Authority |
 | --- | --- | --- |
@@ -119,7 +168,7 @@ Library system with book inventory, member handling, and borrowing/return record
 
 ---
 
-## Currently Learning
+## ✦ Currently Learning
 
 - Advanced Deep Learning (Transformers, LLMs)
 - MLOps and Cloud Deployment (AWS / GCP)
@@ -128,9 +177,12 @@ Library system with book inventory, member handling, and borrowing/return record
 
 ---
 
-## Let's Connect
+## ✦ Let's Connect
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-umer-2ab769245/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Umer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:umermuhammad7052@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
   </a>
