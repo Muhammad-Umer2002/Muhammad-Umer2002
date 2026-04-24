@@ -9,12 +9,6 @@
 <br />
 
 <div align="center">
-  <img src="./assets/profile-photo.png" width="170" alt="Muhammad Umer profile photo" />
-</div>
-
-<br />
-
-<div align="center">
   <a href="mailto:umermuhammad7052@gmail.com">
     <img src="https://img.shields.io/badge/Email-umermuhammad7052%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
