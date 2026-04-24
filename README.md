@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Umer%20Soomro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20%7C%20Flutter&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=BS+Software+Engineering+Graduate;AI+%26+ML+Engineer;Data+Scientist+%7C+Flutter+Developer;Building+Intelligent+Solutions+with+AI" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Umer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-umermuhammad7052%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umermuhammad7052@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Muhammad-Umer2002?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Muhammad-Umer2002)
@@ -26,13 +23,13 @@
 class MuhammadUmer:
     def __init__(self):
         self.name        = "Muhammad Umer Soomro"
-        self.degree      = "BS Software Engineering — SSUET, Karachi (CGPA: 3.56/4.00)"
+        self.degree      = "BS Software Engineering - SSUET, Karachi (CGPA: 3.56/4.00)"
         self.focus       = ["Machine Learning", "Deep Learning", "Data Science", "AI", "Flutter"]
         self.experience  = [
             "Data Analyst & Developer @ UBL Bank (3 months)",
             "Data Science & AI Intern @ YoungDev Intern (3 months)"
         ]
-        self.location    = "Karachi, Pakistan 🇵🇰"
+        self.location    = "Karachi, Pakistan"
         self.languages   = ["English", "Urdu"]
 
     def current_goal(self):
@@ -44,6 +41,7 @@ class MuhammadUmer:
 me = MuhammadUmer()
 print(me)
 ```
+
 ---
 
 ## 🚀 Tech Stack & Skills
@@ -137,7 +135,7 @@ print(me)
     <td width="50%">
       <h3 align="center">💸 Expense Tracker</h3>
       <p align="center"><b>Flutter App</b></p>
-      <p align="center">Clean mobile app to log and categorize daily expenses — food, travel, utilities — with a simple intuitive interface. Built using Flutter.</p>
+      <p align="center">Clean mobile app to log and categorize daily expenses — food, travel, utilities — with a simple intuitive interface built using Flutter.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart"/>
@@ -179,8 +177,8 @@ print(me)
 |------|--------------|-------------------|
 | 2022 | Introduction to AI | IBM (Coursera) |
 | 2023 | Cloud Foundation | Sir Syed University of Engineering |
-| 2024 | Mobile App Programming in Dart | SBTE / Al Khidmat – Bano Qabil |
-| 2024 | Multi-Platform Dev with Flutter | LRN / Al Khidmat – Bano Qabil |
+| 2024 | Mobile App Programming in Dart | SBTE / Al Khidmat - Bano Qabil |
+| 2024 | Multi-Platform Dev with Flutter | LRN / Al Khidmat - Bano Qabil |
 | 2024 | Flutter & Dart Complete Guide | Udemy |
 
 ---
