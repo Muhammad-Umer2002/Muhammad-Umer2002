@@ -44,7 +44,6 @@ class MuhammadUmer:
 me = MuhammadUmer()
 print(me)
 ```
-
 ---
 
 ## 🚀 Tech Stack & Skills
